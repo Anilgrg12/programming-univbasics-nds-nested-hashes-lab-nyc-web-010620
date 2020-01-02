@@ -9,7 +9,7 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 def assembled_aoh
   new_value = [ 
     DON_G,
-    Joelle_VD,
+    JOELLE_VD_VD,
     PAT_M,
     KATE_G,
     BRUCE_G
